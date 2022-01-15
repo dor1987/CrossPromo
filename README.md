@@ -1,4 +1,4 @@
-# <Title> CrossPromo
+#  CrossPromo
 
 Author: Dor Ashush
 
