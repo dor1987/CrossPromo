@@ -57,3 +57,7 @@ AdVideoClip - The usable object after mapping.
 
 - Videos lists wouldnt be longer than 10(If they would i would implemented a que cache)
 - User will have active network connection.
+
+## Dependencies
+
+- Newtonsoft - Since I could'nt find a built in way to parse an array/list I used [Newtonsoft](https://docs.unity3d.com/Packages/com.unity.nuget.newtonsoft-json@2.0/manual/index.html)
